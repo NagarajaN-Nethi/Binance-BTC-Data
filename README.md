@@ -1,5 +1,7 @@
 # Binance Data Visualization and Modeling
 
+Check out the web app on streamlit now!!
+
 I successfully used the Binance API to grab Bitcoin live price data from Binance.
 
 Check out the API [here](https://www.binance.com/en/my/settings/api-management)
