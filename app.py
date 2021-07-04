@@ -1,9 +1,9 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import script
+#import script
 
-df = script.pre_process()
+#df = script.pre_process()
 model = pickle.load(open('model.pkl', 'rb'))
 
 def predict(data):
@@ -34,8 +34,8 @@ if st.button('Predict the Price'):
 
 st.text("This is not an actual predictor! Don't use this while buying bitcoin.")
 
+'''
 st.title('Last 100 Days Price of Bitcoin in USD')
-
 import plotly.graph_objects as go
 fig = go.Figure(data = [go.Candlestick(x = df['Open Time'].tail(100),
                 open = df['Open'].tail(100),
@@ -47,3 +47,4 @@ fig.update_layout(
     width=1000,
     height=700)
 st.plotly_chart(fig)
+'''
