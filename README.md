@@ -2,6 +2,8 @@
 
 Check out the web app on streamlit [now](https://share.streamlit.io/nagarajan-nethi/binance-btc-data/main/app.py)!
 
+Check out the code [here](https://github.com/NagarajaN-Nethi/Binance-BTC-Data/blob/main/Binance_Data_Visualization_and_Modeling.ipynb)
+
 I successfully used the Binance API to grab Bitcoin live price data from Binance.
 
 Check out the API [here](https://www.binance.com/en/my/settings/api-management)
@@ -15,4 +17,4 @@ The date range can also be changed in the same line to tune the data as per your
 
 Then I have made some visualization to understand the trend of price of Bitcoin over the years.
 
-After visualizing, I have created a RAndom Forest Regressor to model the data to predict the closing price of Bitcoin.
+After visualizing, I have created a Random Forest Regressor to model the data to predict the closing price of Bitcoin.
