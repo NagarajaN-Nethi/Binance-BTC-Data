@@ -1,5 +1,9 @@
 # Binance Data Visualization and Modeling
 
+Check out the web app on streamlit [now](https://share.streamlit.io/nagarajan-nethi/binance-btc-data/main/app.py)!
+
+Check out the code [here](https://github.com/NagarajaN-Nethi/Binance-BTC-Data/blob/main/Binance_Data_Visualization_and_Modeling.ipynb)
+
 I successfully used the Binance API to grab Bitcoin live price data from Binance.
 
 Check out the API [here](https://www.binance.com/en/my/settings/api-management)
