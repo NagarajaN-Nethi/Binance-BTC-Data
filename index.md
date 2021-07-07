@@ -20,3 +20,9 @@ Then I have made some visualization to understand the trend of price of Bitcoin 
 After visualizing, I have created a RAndom Forest Regressor to model the data to predict the closing price of Bitcoin.
 
 Check out the code [here](https://github.com/NagarajaN-Nethi/Binance-BTC-Data/blob/main/Binance_Data_Visualization_and_Modeling.ipynb)
+
+<img src="https://user-images.githubusercontent.com/10369716/123642142-96890200-d840-11eb-88bb-65b524f06b81.png" alt="drawing" width="20"/> [Connect with me on LinkedIn](https://www.linkedin.com/in/nagarajan-nethi/)
+
+Also check out : [Using Tranfer Learning to create an Image Classifier on the TensorFlow framework]( https://nagarajan-nethi.github.io/VGG-16/)
+
+Also check out : [Chest Xray of COVID-19 Patients]( https://nagarajan-nethi.github.io/Chest-Xray-COVID-19/)
