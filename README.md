@@ -1,4 +1,4 @@
-# Binance Data Visualization and Modeling
+# [Binance Data Visualization and Modeling](https://nagarajan-nethi.github.io/Binance-BTC-Data/)
 
 Check out the web app on streamlit [now](https://share.streamlit.io/nagarajan-nethi/binance-btc-data/main/app.py)!
 
