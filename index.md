@@ -17,7 +17,7 @@ The date range can also be changed in the same line to tune the data as per your
 
 Then I have made some visualization to understand the trend of price of Bitcoin over the years.
 
-After visualizing, I have created a RAndom Forest Regressor to model the data to predict the closing price of Bitcoin.
+After visualizing, I have created a Random Forest Regressor to model the data to predict the closing price of Bitcoin.
 
 Check out the code [here](https://github.com/NagarajaN-Nethi/Binance-BTC-Data/blob/main/Binance_Data_Visualization_and_Modeling.ipynb)
 
